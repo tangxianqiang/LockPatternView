@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="app_theme_light">#87CEFA</color>
+
+    <color name="splash_bg">#46AFEA</color>
+
+    <color name="color_light_gray">#F7F9FA</color>
+
+
+    <color name="privacy_dialog_title_light">#000000</color>
+    <color name="privacy_dialog_message_light">#222222</color>
+    <color name="privacy_dialog_message_notice_light">#46AEEA</color>
+
+    <color name="pattern_unselected">#DADADA</color>
+    <color name="pattern_selected">#87CEFA</color>
+    <color name="pattern_header_color">#888888</color>
+
+    <color name="text_color_gray">#888888</color>
+</resources>

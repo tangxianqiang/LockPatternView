@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="LockPatternView">
+        <item name="regularColor">@color/app_theme_light</item>
+        <item name="errorColor">@color/red</item>
+        <item name="successColor">@color/blue</item>
+    </style>
+
+</resources>

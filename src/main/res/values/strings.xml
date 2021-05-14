@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">
+            Cell <xliff:g id="cell_index" example="3">%1$s</xliff:g> added</string>
+    <string name="lockpattern_recording_inprogress" msgid="7268008332694009191">"完成后松开手指"</string>
+    <string name="lockpassword_draw_your_pattern_again_header" msgid="1045638030120803622">"再次绘制图案"</string>
+    <string name="lockpattern_retry_button_text" msgid="4229668933251849760">"清除"</string>
+    <string name="next_label" msgid="1248293387735652187">"下一步"</string>
+    <string name="lockpattern_confirm_button_text" msgid="6122815520373044089">"确认"</string>
+    <string name="lock_settings_picker_biometrics_added_security_message" msgid="1105247657304421299">"为提升安全性，请设置备用的锁屏方式"</string>
+    <string name="lockpassword_choose_your_pattern_message" msgid="5815780503576680412">"为了安全起见，请设置解锁图案"</string>
+    <string name="lockpattern_recording_intro_header" msgid="8325736706877916560">"绘制解锁图案"</string>
+    <string name="lockpattern_settings_help_how_to_record" msgid="2093801939046625774">"如何绘制解锁图案"</string>
+    <string name="lockpattern_recording_incorrect_too_short" msgid="3351522018450593723">"至少需连接 <xliff:g id="NUMBER">%d</xliff:g> 个点，请重试。"</string>
+    <string name="lockpattern_pattern_entered_header" msgid="7709618312713127249">"图案已记录"</string>
+    <string name="lockpattern_need_to_confirm" msgid="6489499109451714360">"再次绘制图案进行确认"</string>
+    <string name="lockpattern_need_to_unlock_wrong" msgid="8109305107409924083">"图案错误"</string>
+    <string name="lockpattern_pattern_confirmed_header" msgid="2969990617475456153">"您的新解锁图案"</string>
+    <string name="lockpattern_lock_out">错误次数过多，请5分钟后再试</string>
+    <string name="lockscreen_access_pattern_area" msgid="">Pattern area.</string>
+</resources>
